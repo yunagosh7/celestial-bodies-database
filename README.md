@@ -2,4 +2,4 @@
 Diagrama realizado con <a href="https://app.diagrams.net/" target="_blank" a>app.diagrams.net</a>
 
 
-![Diagrama Entidad-Relacion](./celestial-bodies.png)
+![Diagrama Entidad-Relacion](./celestial%20bodies.png)
